@@ -1,0 +1,20 @@
+@media screen and (max-width:630px) {
+    .header-main-div{
+        height: 10rem;
+        /* width: 40re; */
+        /* border: 1px solid red; */
+    }
+    .header-images{
+        height: 100%;
+        width: 100%;
+    }
+ @keyframes header {
+0%{background-image: url("./headerImages/1.gif");}
+25%{background-image: url("./headerImages/2.png");}
+50%{background-image: url("./headerImages/3.gif");}
+75%{background-image: url("./headerImages/4.png");}
+100%{background-image: url("./headerImages/1.gif");}
+    }
+  
+    
+}
